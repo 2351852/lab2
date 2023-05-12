@@ -5,16 +5,19 @@
 | Completed all user stories within the sprint | Several merge conflicts delayed the completion of some tasks | Could have done a better job of communicating updates and blockers during daily standups |
 | Consistently met daily standup times | | |
 | Effective use of project management tools | Scope of one user story was underestimated, causing delays | Need to improve user story estimation process |
+| Worked well as a team | Some of the stories were too big, had to be split | Need to get better at creating good stories |
+| Helped eachother Fix Merge Conflicts | Loadshedding, not knowing how to tag a pull, led to the sprint being realsed at 12pm exactly | Need to plan to finish early to allow for additional problems |
 
-The sprint velocity for this week was 25 points.
+The sprint velocity for this week was 7 out of 8
 
-Retrospective meeting were held on Thursay at 7 PM and lasted for 2 hours
+Retrospective meeting were held on Thursay at 9 PM and lasted for 2 hours
 
 ## Tickets
 
 - View upcoming default consultations set as a list, showing the date, time, and lecture name. 
-- As a student, select which lecturer to have a consultation with." (`Estimated points: 5`)
-- Login to Consultation App as any user. (`Estimated points: 3`)
-- Login to consultation app as a lecturer or student. (`Estimated points: 3`)
-- View their default-set consultation slots on calendar (Lecturer). (`Estimated points: 4`)
-
+- As a student, select which lecturer to have a consultation with."
+- Login to Consultation App as any user. 
+- Login to consultation app as a lecturer or student. 
+- View their default-set consultation slots on calendar (Lecturer). 
+- As a User traverse the screens on the website
+- As a lecturer be able to specify the number of students allowed per consultation
