@@ -6,7 +6,7 @@
 | Consistently met daily standup times | | |
 | Effective use of project management tools | Scope of one user story was underestimated, causing delays | Need to improve user story estimation process |
 | Worked well as a team | Some of the stories were too big, had to be split | Need to get better at creating good stories |
-| Helped eachother Fix Merge Conflicts | Loadshedding, not knowing how to tag a pull, led to the sprint being realsed at 12pm exactly | Need to plan to finish early to allow for additional problems |
+| Helped eachother Fix Merge Conflicts | Loadshedding, not knowing how to tag a pull, led to the sprint being realsed at 12pm exactly | Need to plan to finish early next time |
 
 The sprint velocity for this week was 7 out of 8
 
